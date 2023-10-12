@@ -1,3 +1,20 @@
 body {
-    background-color: blueviolet;
+    background-color: burlywood;
+}
+h2{
+    color: rgb(0, 139, 102);
+}
+
+article{
+    padding: 30px;
+}
+
+#articleOne{
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px dotted gray;
+}
+
+#articleTwo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid purple;
 }
